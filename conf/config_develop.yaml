@@ -1,0 +1,19 @@
+runMode: develop
+
+addr: 127.0.0.1:8888
+
+mysql:
+  Host: rm-2vc208dd40g94459wqo.mysql.cn-chengdu.rds.aliyuncs.com
+  Port: 3306
+  username: lihaoselfhigh
+  password: lihao@123
+  DB: learning2.0
+
+redis:
+  addr: 127.0.0.1
+  port: 6379
+  password:
+
+
+page_size: 2
+max_myteacher_label: 5
